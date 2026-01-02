@@ -36,7 +36,7 @@ Alpha Data Collector는 한국(KOSPI/KOSDAQ) 및 미국(NYSE/NASDAQ) 주식 시�
 |------|------|
 | `alpha_front/client/` | Frontend (UI/UX) |
 | `alpha_front/api/` | Frontend <-> Backend API 통신 |
-| **`alpha/data/`** | **데이터 자동 수집 & 지표 계산 (현재 저장소)** |
+| **`alpha/data/`** | **📍 데이터 자동 수집 & 지표 계산 (현재 저장소)** |
 | `alpha/chat/` | 주식 투자 전략 전문 LLM |
 | `alpha/quant/` | 멀티팩터 퀀트 분석 엔진 |
 | `alpha/stock_agents/` | 종목 투자 전략 Multi-Agent AI |
