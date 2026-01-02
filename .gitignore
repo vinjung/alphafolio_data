@@ -1,0 +1,125 @@
+# ========================================
+# 보안: API 키 및 민감한 정보
+# ========================================
+.claude/
+.env
+*.env
+.env.*
+config.json
+credentials.json
+secrets.json
+
+# ========================================
+# Python
+# ========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ========================================
+# 가상환경
+# ========================================
+venv/
+ENV/
+env/
+.venv
+.virtualenv
+
+# ========================================
+# IDE 및 에디터
+# ========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ========================================
+# 로그 및 데이터베이스
+# ========================================
+*.log
+*.sqlite
+*.db
+
+# 로그 디렉토리 전체 제외 (JSON 로그 파일 포함)
+log/
+logs/
+
+# ========================================
+# 임시 파일
+# ========================================
+*.tmp
+*.bak
+*.backup
+.cache/
+.pytest_cache/
+nul
+
+# ========================================
+# 로컬 전용 파일
+# ========================================
+.clinerules
+sub.py
+sub_*.py
+
+# ========================================
+# 임시 및 출력 파일
+# ========================================
+temp_*.csv
+temp_*.txt
+symbols_output.txt
+
+# ========================================
+# CSV 데이터 파일 (옵션: 데이터 파일을 제외하려면)
+# ========================================
+# *.csv
+# data/*.csv
+
+# ========================================
+# GCS 서비스 계정 키
+# ========================================
+*service-account*.json
+*serviceAccount*.json
+gcs-key.json
+
+# ========================================
+# 로컬 설정 스크립트 및 문서
+# ========================================
+cloud_scheduler_*.sh
+test_endpoints.ps1
+PARTITION_SETUP_COMMAND.txt
+
+# 배포/설정 가이드 문서
+RAILWAY_DEPLOY_STEPS.md
+INSTALL_GCLOUD.md
+API_TESTING_GUIDE.md
+CLOUD_SCHEDULER_SETUP.md
+DEPLOYMENT.md
+RAILWAY_FIX.md
+SCHEDULE_OVERVIEW.md
+
+# 로컬 배포/업로드 스크립트
+railway_deploy.ps1
+railway_deploy.sh
+upload_env_to_railway.ps1

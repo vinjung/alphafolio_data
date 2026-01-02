@@ -1,0 +1,35 @@
+# Web Framework
+fastapi
+uvicorn
+
+# HTTP Clients
+requests
+aiohttp
+
+# Database
+asyncpg
+psycopg2-binary
+
+# Data Processing
+pandas
+numpy
+
+# Environment & Config
+python-dotenv
+python-dateutil
+pytz
+
+# Market Calendars
+pandas-market-calendars
+
+# Web Scraping
+beautifulsoup4
+
+# Finance Data APIs
+finance-datareader
+yfinance
+fredapi
+
+# Google Cloud
+google-cloud-storage
+google-auth
