@@ -34,14 +34,14 @@ Alpha Data Collector는 한국(KOSPI/KOSDAQ) 및 미국(NYSE/NASDAQ) 주식 시�
 
 | 폴더 | 설명 |
 |------|------|
-| [`alpha/overview/`](https://github.com/vinjung/alphafolio_overview) | 프로젝트 설명 |
-| [`alpha_front/client/`](https://github.com/vinjung/alphafolio_client-api) | Frontend (UI/UX) |
-| [`alpha_front/api/`](https://github.com/vinjung/alphafolio_client-api) | Frontend <-> Backend API 통신 |
-| **[`alpha/data/`](https://github.com/vinjung/alphafolio_data)** | **📍 데이터 자동 수집 & 지표 계산 (현재 저장소)** |
-| [`alpha/chat/`](https://github.com/vinjung/alphafolio_chat) | 주식 투자 전략 전문 LLM |
-| [`alpha/quant/`](https://github.com/vinjung/alphafolio_quant) | 멀티팩터 퀀트 분석 엔진 |
-| [`alpha/stock_agents/`](https://github.com/vinjung/alphafolio_stock_agent) | 종목 투자 전략 Multi-Agent AI |
-| [`alpha/portfolio/`](https://github.com/vinjung/alphafolio_portfolio) | 포트폴리오 생성 & 리밸런싱 엔진 |
+| [**alpha/overview/**](https://github.com/vinjung/alphafolio_overview) | 프로젝트 설명 |
+| [**alpha_front/client/**](https://github.com/vinjung/alphafolio_client-api) | Frontend (UI/UX) |
+| [**alpha_front/api/**](https://github.com/vinjung/alphafolio_client-api) | Frontend <-> Backend API 통신 |
+| [**alpha/data/**](https://github.com/vinjung/alphafolio_data) | **📍 데이터 자동 수집 & 지표 계산 (현재 저장소)** |
+| [**alpha/chat/**](https://github.com/vinjung/alphafolio_chat) | 주식 투자 전략 전문 LLM |
+| [**alpha/quant/**](https://github.com/vinjung/alphafolio_quant) | 멀티팩터 퀀트 분석 엔진 |
+| [**alpha/stock_agents/**](https://github.com/vinjung/alphafolio_stock_agent) | 종목 투자 전략 Multi-Agent AI |
+| [**alpha/portfolio/**](https://github.com/vinjung/alphafolio_portfolio) | 포트폴리오 생성 & 리밸런싱 엔진 |
 
 ---
 
