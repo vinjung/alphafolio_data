@@ -86,9 +86,9 @@ flowchart TB
     subgraph Server["Railway - FastAPI"]
         API[Alpha Data Collector API]
         subgraph Routers["Routers"]
-            KR[/collect/kr/*]
-            US[/collect/us/*]
-            Admin[/admin/*]
+            KR["/collect/kr/*"]
+            US["/collect/us/*"]
+            Admin["/admin/*"]
         end
     end
 
